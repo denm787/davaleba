@@ -1,0 +1,22 @@
+.one label , input{
+    display: block;
+    padding-top: 5px;
+    color: black;
+    
+}
+.two {
+    
+    padding: 10px;
+    box-sizing: border-box;
+}
+#main {
+    float: left;
+    width: 70%;
+}
+#sidebar{
+    width: 30%;
+    float: left;
+}
+.container {
+    display: flex;
+}
