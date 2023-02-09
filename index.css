@@ -2,7 +2,8 @@
     display: block;
     padding-top: 5px;
     color: black;
-    
+    font-size: large;
+    color: red;
 }
 .two {
     
@@ -25,4 +26,10 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 
+}
+h1 {
+    text-align: center;
+}
+*{
+    color: rgb(150, 202, 221);
 }
